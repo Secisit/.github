@@ -11,6 +11,6 @@ We're also the parent company of:
 ## Who's on the team?
 On our team, we currently have:
 
-[Trisozoes (CEO and founder)](https://github.com/Trisozoes) - _I founded Secisit and Blastcast because I have always had a passion for technology and television and I've always wanted to make the world of technology a better place, and I've also make people enjoy television._
+[Trisozoes (CEO and founder)](https://github.com/Trisozoes) - _I founded Secisit and Blastcast because I have always had a passion for technology and television and I've always wanted to make the world of technology a better place, and I've also wanted to help people enjoy television._
 ## Are we currently looking for people to join our team?
 We're not currently looking for anyone to join our team - however we may be allowing people to do this when we can.
