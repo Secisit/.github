@@ -7,7 +7,7 @@ We're currently working on an email service for people to use and we're also cur
 
 We're also the parent company of:
 
-- [Blastcast](https://blastcast.co.uk)
+- [Blastcast](https://github.com/BlastcastTV)
 ## Who's on the team?
 On our team, we currently have:
 
